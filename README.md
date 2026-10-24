@@ -20,7 +20,7 @@
 - While exploring new opportunities, I'm sharpening my skills in **Flutter, Laravel, and UI/UX**
 - Former Intern at **KDMP Logistic**
 - All of my projects are available at [My GitHub](https://github.com/MuhammadIsmamAssyifa)
-- Ask me about **Frontend, Flutter, PHP, or Arduino**
+- Ask me about **Frontend, Flutter, PHP, PostgreSQL, or Arduino**
 - Reach me at **muhammadismam04@gmail.com**
 - Fun fact: I enjoy building both **web apps** and **electronics circuits**
 
@@ -43,6 +43,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=firebase&logoColor=white)
 
 ### Design & Tools

@@ -70,16 +70,6 @@
 
 ---
 
-## Activity Graph
-
-<div align="center">
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadIsmamAssyifa&theme=tokyonight&hide_border=true&area=true)
-
-</div>
-
----
-
 <div align="center">
 
 ### "Build, learn, and contribute — one commit at a time."

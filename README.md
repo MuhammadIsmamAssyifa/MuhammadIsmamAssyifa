@@ -16,12 +16,12 @@
 
 ## About Me
 
-- Currently open to opportunities in **Frontend / Mobile Development**
+- Currently open to opportunities in **Software Development**
 - While exploring new opportunities, I'm sharpening my skills in **Flutter, Laravel, and UI/UX**
 - Former Intern at **KDMP Logistic**
 - All of my projects are available at [My GitHub](https://github.com/MuhammadIsmamAssyifa)
 - Ask me about **Frontend, Flutter, PHP, PostgreSQL, or Arduino**
-- Reach me at **muhammadismam04@gmail.com**
+- Reach me at **muhammadismam31@gmail.com**
 - Fun fact: I enjoy building both **web apps** and **electronics circuits**
 
 ---
@@ -70,11 +70,11 @@
 
 ---
 
-## GitHub Trophies
+## Activity Graph
 
 <div align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=MuhammadIsmamAssyifa&theme=tokyonight&no-frame=true&no-bg=true&column=7)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=MuhammadIsmamAssyifa&theme=tokyonight&hide_border=true&area=true)
 
 </div>
 
